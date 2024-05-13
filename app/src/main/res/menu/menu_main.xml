@@ -1,0 +1,15 @@
+<!-- menu_main.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/MENU_SEARCH"
+        android:title="Buscar" />
+    <item
+        android:id="@+id/MENU_DELETE_ALL"
+        android:title="Vaciar Lista" />
+    <item
+        android:id="@+id/MENU_EXIT"
+        android:title="Salir" />
+    <item
+        android:id="@+id/MENU_ABOUT"
+        android:title="A cerca de" />
+</menu>

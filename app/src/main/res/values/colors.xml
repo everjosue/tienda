@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryVariant">#303F9F</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#FF4081</color>
+    <color name="colorSecondaryVariant">#FF80AB</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorOnSecondaryDark">#FFFFFFFF</color>
+    <color name="colorSecondaryVariantDark">#FF6A6A6A</color>
+    <color name="colorSecondaryDark">#FF6A6A6A</color>
+    <color name="colorOnPrimaryDark">#FFFFFFFF</color>
+    <color name="colorPrimaryVariantDark">#FF002984</color>
+
+    <color name="colorAccent">#00A5FF</color>
+    <color name="lilaColor">#8A2BE2</color> <!-- Este es un ejemplo de un color lila -->
+
+
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#00a5ff</color>
+    <color name="loginBkColor">#f0f0f0</color>
+
+
+    <color name="whiteCardColor">#fff</color>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <!--dimes for design 3-->
+    <dimen name="headerTextSize">22sp</dimen>
+    <dimen name="newsMoreTextSize">12sp</dimen>
+    <dimen name="loginCardRadius">20dp</dimen>
+    <dimen name="loginViewsMargin">20dp</dimen>
+
+    <dimen name="signup_text_margin_top">10dp</dimen>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Correo</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="signup_login_hint">¿Ya tienes una cuenta? Inicia sesión</string>
+    <string name="login_signup_hint">¿No tienes una cuenta? Registrate</string>
+
+</resources>
